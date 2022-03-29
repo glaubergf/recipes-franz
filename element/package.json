@@ -1,0 +1,23 @@
+{
+  "id": "element",
+  "name": "Element",
+  "version": "1.0.0",
+  "description": "Element",
+  "main": "index.js",
+  "author": "Glauber GF <https://github.com/glaubergf>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.element.io/#/login",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
