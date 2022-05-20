@@ -1,5 +1,5 @@
 [comment]: <Author: Glauber GF (https://github.com/glaubergf)>
-[comment]: <Create: 2022-03-28>
+[comment]: <Create: 2022-05-19>
 
 # Busuu for Franz:
 
@@ -8,7 +8,7 @@ Created for own use.
 
 ## Technology:
 
-New language, new opportunities, new you
+New language, new opportunities, new you.
 Get access to compact lessons from the experts and connect with a community of native speakers to help you master words faster.
 
 * [Busuu](https://www.busuu.com/en)
